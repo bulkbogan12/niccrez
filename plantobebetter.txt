@@ -1,6 +1,6 @@
 plan:
 studyyy
-  -3 hours
+  -2 hours instead**
   -eat well
 workout
 eat
