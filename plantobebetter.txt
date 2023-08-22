@@ -1,9 +1,9 @@
 plan:
 studyyy
-  -4hours
+  -2 hours instead**
   -eat well
 workout
-  ^ 15 minutse instead
+  -30 minutes
 eat
   - dont forget good food
 slept
