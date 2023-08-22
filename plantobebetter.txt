@@ -1,5 +1,6 @@
 plan:
 studyyy
+  -3 hours
 workout
 eat
 slept
